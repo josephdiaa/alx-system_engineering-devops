@@ -1,2 +1,12 @@
-Write a script that prints the absolute path name of the current working directory.
-Display the contents list of your current directory.
+#Shell_basics
+```
+##0. Where am I?
+  -Write a script that prints the absolute path name of the current working directory.
+##1. What’s in there?
+  -Display the contents list of your current directory.
+##2. There is no place like home
+  -Write a script that changes the working directory to the user’s home directory.
+3. The long format
+4. Hidden files
+5. I love numbers
+
